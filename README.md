@@ -32,6 +32,8 @@
     - htop          : improved top
     - ytop          : improved top
     - colorscripts  : fancy colored scripts to impress friends ;)
+- Vimix Cursor White
+    
 
 Other fancy stuff and/or config WIP:
 - w3m       : terminal web browser

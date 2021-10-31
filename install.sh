@@ -74,3 +74,9 @@ npm install --save colorscript
 sudo pacman -S ranger neofetch 
 yay -S pfetch
 
+# Vimix Cursor
+git clone https://github.com/vinceliuice/Vimix-cursors.git 
+cd Vimix-cursors
+./install
+cd .. && rm -rf Vimix-cursors
+
