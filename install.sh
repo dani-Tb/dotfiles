@@ -80,3 +80,7 @@ cd Vimix-cursors
 ./install
 cd .. && rm -rf Vimix-cursors
 
+# Icon themes
+git clone https://github.com/matheuuus/dracula-icons ~/.icons/dracula-icons
+yay -S papirus-icon-theme-git
+

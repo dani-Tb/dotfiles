@@ -33,7 +33,7 @@
     - ytop          : improved top
     - colorscripts  : fancy colored scripts to impress friends ;)
 - Vimix Cursor White
-    
+- Dracula icons & Papirus Icons    
 
 Other fancy stuff and/or config WIP:
 - w3m       : terminal web browser
