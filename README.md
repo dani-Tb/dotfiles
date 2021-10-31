@@ -3,6 +3,7 @@
 # WIP dotfiles
 
 # Dependencies
+- yay           : AUR intall helper
 - qtile         : window manager
     - feh            : wallpaper manager & terminal viewer
     - lxsessions     : session manager
@@ -33,6 +34,7 @@
     - colorscripts  : fancy colored scripts to impress friends ;)
 
 Other fancy stuff and/or config WIP:
+- w3m       : terminal web browser
 - neofetch  : color term system info
 - pfetch    : colored term system info
 - ranger    : terminal based file explorer
@@ -41,7 +43,7 @@ Other fancy stuff and/or config WIP:
 List of intallation commands for previous software in Arch:
 
 
-|:exclamation NOT A WORKING SCRIPT, only for reference purposes|
+|:exclamation: NOT A WORKING SCRIPT, only for reference purposes|
 |--------------------------------------------------------------|
 
-Under (WTFPL)[http://www.wtfpl.net/] :copyright: d.T.b 2021
+Under [WTFPL](http://www.wtfpl.net/) :copyright: d.T.b 2021
