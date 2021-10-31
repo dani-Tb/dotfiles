@@ -1,0 +1,8 @@
+#To set the font
+style "Cantarell"
+{
+    font_name = "Cantarell 32"
+}
+widget_class "*" style "Cantarell"
+gtk-font-name = "Cantarell 32"
+
