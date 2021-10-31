@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/buit/RICE/Wallpapers/CGI/vibes-of-watching-the-city-2-1920×1080.jpg"
+let background = "#1f1118"
+let foreground = "#c7c3c5"
+let cursor     = "#c7c3c5"
+
+" Colors
+let color0  = "#1f1118"
+let color1  = "#b35951"
+let color2  = "#6379a0"
+let color3  = "#6e88c3"
+let color4  = "#be7785"
+let color5  = "#a5819f"
+let color6  = "#e57476"
+let color7  = "#c7c3c5"
+let color8  = "#574c51"
+let color9  = "#b35951"
+let color10 = "#6379a0"
+let color11 = "#6e88c3"
+let color12 = "#be7785"
+let color13 = "#a5819f"
+let color14 = "#e57476"
+let color15 = "#c7c3c5"

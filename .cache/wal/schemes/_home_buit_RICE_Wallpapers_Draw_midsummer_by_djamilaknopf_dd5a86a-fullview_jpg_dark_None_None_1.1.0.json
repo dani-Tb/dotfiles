@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/buit/RICE/Wallpapers/Draw/midsummer_by_djamilaknopf_dd5a86a-fullview.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3c200d",
+        "foreground": "#eae5c9",
+        "cursor": "#eae5c9"
+    },
+    "colors": {
+        "color0": "#3c200d",
+        "color1": "#AA9F52",
+        "color2": "#B48E78",
+        "color3": "#DABB45",
+        "color4": "#9B6881",
+        "color5": "#A69BA5",
+        "color6": "#DAA799",
+        "color7": "#eae5c9",
+        "color8": "#a3a08c",
+        "color9": "#AA9F52",
+        "color10": "#B48E78",
+        "color11": "#DABB45",
+        "color12": "#9B6881",
+        "color13": "#A69BA5",
+        "color14": "#DAA799",
+        "color15": "#eae5c9"
+    }
+}

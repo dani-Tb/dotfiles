@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/buit/RICE/Wallpapers/Propis/spc_sp_101_rotat.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#f0e0f0",
+        "cursor": "#f0e0f0"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#623E82",
+        "color2": "#754A87",
+        "color3": "#766E8D",
+        "color4": "#855792",
+        "color5": "#B3A7DB",
+        "color6": "#C9B6EE",
+        "color7": "#f0e0f0",
+        "color8": "#a89ca8",
+        "color9": "#623E82",
+        "color10": "#754A87",
+        "color11": "#766E8D",
+        "color12": "#855792",
+        "color13": "#B3A7DB",
+        "color14": "#C9B6EE",
+        "color15": "#f0e0f0"
+    }
+}

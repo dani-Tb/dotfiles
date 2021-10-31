@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/buit/RICE/Wallpapers/CGI/3d-abstract-colorful-shapes-minimalist-5k-zr-1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100918",
+        "foreground": "#79d8df",
+        "cursor": "#79d8df"
+    },
+    "colors": {
+        "color0": "#100918",
+        "color1": "#F99233",
+        "color2": "#E2E432",
+        "color3": "#247486",
+        "color4": "#189CA9",
+        "color5": "#56C1A9",
+        "color6": "#0DB8C7",
+        "color7": "#79d8df",
+        "color8": "#54979c",
+        "color9": "#F99233",
+        "color10": "#E2E432",
+        "color11": "#247486",
+        "color12": "#189CA9",
+        "color13": "#56C1A9",
+        "color14": "#0DB8C7",
+        "color15": "#79d8df"
+    }
+}

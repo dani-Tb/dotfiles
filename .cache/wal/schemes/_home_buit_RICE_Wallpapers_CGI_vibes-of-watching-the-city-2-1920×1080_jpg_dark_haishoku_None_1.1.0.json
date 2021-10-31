@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/buit/RICE/Wallpapers/CGI/vibes-of-watching-the-city-2-1920\u00d71080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151718",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#151718",
+        "color1": "#2b3350",
+        "color2": "#455479",
+        "color3": "#6c5c78",
+        "color4": "#516692",
+        "color5": "#5f72a2",
+        "color6": "#7685b9",
+        "color7": "#c4c5c5",
+        "color8": "#4f5151",
+        "color9": "#2b3350",
+        "color10": "#455479",
+        "color11": "#6c5c78",
+        "color12": "#516692",
+        "color13": "#5f72a2",
+        "color14": "#7685b9",
+        "color15": "#c4c5c5"
+    }
+}
