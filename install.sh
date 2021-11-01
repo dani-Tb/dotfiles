@@ -13,7 +13,7 @@ makepkg -si PKGBUILD
 sudo pacman -S lightdm
 
 # Qtile and utils
-sudo pacman -S qtile feh alacritty w3m picom lxsessions volumeicon NetworkManager zsh curl
+sudo pacman -S qtile feh alacritty w3m picom lxsessions volumeicon NetworkManager zsh curl udiskie
 
 # Zsh defaiñt shell
 chsh -s /usr/bin/zsh
@@ -83,4 +83,7 @@ cd .. && rm -rf Vimix-cursors
 # Icon themes
 git clone https://github.com/matheuuus/dracula-icons ~/.icons/dracula-icons
 yay -S papirus-icon-theme-git
+
+# Rofi
+yay -S rofi-dmenu
 

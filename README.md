@@ -11,6 +11,8 @@
     - picom          : compositor
     - volumeicon     : well ... a colume icon widget
     - NetworkManager : network manager applet
+    - udiskie        : Usb storage notification
+    - rofi           : launcher and Dmenu replacement
 - MesloLGS NF   : Nerdfont for terminal icons
 - zsh           : shell
 - oh-my-zsh     : zsh config manager
