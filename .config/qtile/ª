@@ -10,8 +10,6 @@ from colors import colors
 terminal = guess_terminal()
 prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
 
-keybindings_text = 'echo -e "' + qtile.cmd_display_kb() + '"'
-
 widget_defaults = dict(
     font='MesloLGS NF',
     padding = 0,
@@ -255,7 +253,7 @@ def init_widgets_list():
                 foreground = white,                
                 padding = 6,
                 fontsize = 22,
-                mouse_callbacks = {'Button1': lambda: qtile.cmd_spawn(terminal + ' --hold -e ' + keybindings_text)}
+                mouse_callbacks = {'Button1': lambda: qtile.cmd_spawn(terminal + ' -e "zsh -c \"echo \'Hola Mon\'; read\"')}
             ),
 
             widget.TextBox(
