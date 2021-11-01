@@ -55,4 +55,21 @@ keys = [
     Key([mod], "m", lazy.spawn("rofi -show run")),
     Key([mod, 'shift'], "m", lazy.spawn("rofi -show")), 
 
+    # Estra Bindingsn ( From Derek Taylor from DistroTube ;)  )
+    Key([mod, "shift"], "f",
+        lazy.window.toggle_floating(),
+        desc='toggle floating'
+    ),
+    Key([mod], "f",
+        lazy.window.toggle_fullscreen(),
+        desc='toggle fullscreen'
+    ),
+    Key([mod], "period",
+        lazy.next_screen(),
+        desc='Move focus to next monitor'
+    ),
+    Key([mod], "comma",
+        lazy.prev_screen(),
+        desc='Move focus to prev monitor'
+    ),
 ]
