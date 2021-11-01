@@ -29,7 +29,6 @@ layouts = [
         margin=2,
         border_width=2
     ),
-    layout.RatioTile(**layout_theme),
     layout.TreeTab(
          font = "MesloLGS NF",
          fontsize = 10,
