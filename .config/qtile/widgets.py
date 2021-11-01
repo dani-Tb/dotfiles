@@ -223,12 +223,25 @@ def init_widgets_list():
             widget.Clock(
                 foreground = white,
                 background = colors[5],
-                format = "%A %d %B de %Y - %H:%M "
-            ),   
+                format = "%A %d %B de %Y "
+            ), 
+            widget.TextBox(
+                text = '',
+                font = "MesloLGS NF",
+                background = colors[5],
+                foreground = colors[6],
+                padding = 0,
+                fontsize = 18
+            ),
+            widget.Clock(
+                foreground = white,
+                background = colors[6],
+                format = "%H:%M "
+            ),
             widget.TextBox(
                 text = '',
                 font = "MesloLGS NF Bold",
-                background = colors[5],
+                background = colors[6],
                 foreground = colors[0],
                 padding = 0,
                 fontsize = 18
@@ -237,9 +250,10 @@ def init_widgets_list():
                 default_text = '',
                 background = colors[0],
                 foreground = colors[6],
-                countdown_start = 0,
+                countdown_start = 1,
                 padding = 3,
-                fontsize = 22
+                fontsize = 22,
+                countdown_format = ""
             ),
             widget.Sep(
                 linewidth = 0,
