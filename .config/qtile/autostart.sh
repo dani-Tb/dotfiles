@@ -15,5 +15,8 @@ nm-applet &
 
 # wal color settings
 #wal -i "$(< "${HOME}/.cache/wal/wal")"
-wal -R
+#wal -R
+
+# for some reason wal failed to load wallpaper
+~/.fehbg
 
